@@ -10,3 +10,5 @@
 5. [Модель для прогнозирования невыполнения долговых обязательств по кредиту](https://nbviewer.org/github/Har-vit/Data-Science.-Libs.-Part-2/blob/master/Homeworks/VKharitonov_solution.ipynb)
 
 6. [Модель для предсказания цен на квартиры](https://nbviewer.org/github/Har-vit/Data-Science-Numpy-Matplotlib-Scikit-learn/blob/Final_project/Homework1/Final%20notebook.ipynb)
+
+7. Разработка модели эффективности промо (коммерческий проект GlowByte совместно с Лента)
